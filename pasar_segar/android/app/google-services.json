@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50185995530",
+    "project_id": "pagar-7d3af",
+    "storage_bucket": "pagar-7d3af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50185995530:android:7d3a41961c386d0c9de6f3",
+        "android_client_info": {
+          "package_name": "com.example.pasar_segar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50185995530-iupm9prniia6ai3uu8qrirajs1i7nvaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9BCDWWbq_IePIO5UdwUhQjIRJaKQduJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50185995530-iupm9prniia6ai3uu8qrirajs1i7nvaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
